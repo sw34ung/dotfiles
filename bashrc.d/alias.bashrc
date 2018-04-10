@@ -1,0 +1,5 @@
+alias venv="source ~/OS/bin/activate"
+alias oscadmin="source ~/OS/bin/activate;source ~/nectar-admin.sh"
+alias osc="openstack"
+alias osc_show="openstack server show"
+alias osc_list="openstack server list --fields"

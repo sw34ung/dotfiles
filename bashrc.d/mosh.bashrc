@@ -1,0 +1,5 @@
+alias moshi='mosh ubuntu@mosh.sw3.ninja --ssh="ssh -i sa.pem"'
+alias moshia='mosh ubuntu@moshia.sw3.ninja --ssh="ssh -i sa.pem"'
+alias moshib='mosh ubuntu@moshib.sw3.ninja --ssh="ssh -i sw3-rc"'
+alias moshib='mosh ubuntu@moshib.sw3.ninja --ssh="ssh -i sw3-rc"'
+alias moshiansi='mosh ubuntu@ansi.sw3.ninja --ssh="ssh -i sw3-rc"'

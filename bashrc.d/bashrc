@@ -1,0 +1,7 @@
+# save all bashrc files in bashrc.d
+# this file should be sym link to $HOME/.bashrc
+for file in $HOME/.bashrc.d/*.bashrc;
+do
+ source $file
+done
+
