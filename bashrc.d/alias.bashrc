@@ -7,3 +7,4 @@ alias osc_s_show="openstack server show"
 alias nova_list_host="nova list --all-tenants --host"
 alias nova_list_project="nova list --all-tenants --fields user_id,OS-EXT-SRV-ATTR:host,accessIPv4,status --tenant"
 alias osc_h_list="openstack hypervisor list --matching dc"
+
